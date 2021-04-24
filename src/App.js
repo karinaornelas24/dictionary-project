@@ -7,10 +7,13 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
         <footer>
-          <small>Coded by Ana Karina Ornelas</small>
+          <small>Coded by Ana Karina Ornelas </small>open-sourced on{" "}
+          <a href="https://github.com/karinaornelas24/dictionary-project">
+            Github
+          </a>
         </footer>
       </div>
     </div>

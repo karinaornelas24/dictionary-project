@@ -1,3 +1,19 @@
 .App footer {
   text-align: center;
+  font-size: 12px;
+  font-family: arial;
+}
+
+body {
+  background-color: #5eaaa8;
+  font-family: "Bodoni Moda", serif;
+}
+
+.App header {
+  text-align: center;
+  font-size: 36px;
+}
+
+a {
+  color: #5eaaa8;
 }
