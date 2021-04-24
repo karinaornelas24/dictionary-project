@@ -17,3 +17,8 @@ body {
 a {
   color: #5eaaa8;
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
