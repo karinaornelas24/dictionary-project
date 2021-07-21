@@ -5,8 +5,12 @@
 }
 
 body {
-  background: linear-gradient(to right, #33ccff 0%, #cc99ff 100%);
-  font-family: "Bodoni Moda", serif;
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2019/03/14/the-library-wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "MedievalSharp", cursive;
+  color: white;
 }
 
 .App header {
